@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css');
 
 h1,h2,h3,h4,h4,p{
   font-family: 'Dosis', sans-serif;
