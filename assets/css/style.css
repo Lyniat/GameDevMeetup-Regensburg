@@ -41,6 +41,11 @@ html{
   font-size: 0px;
 }
 
+.current-section{
+  visibility:hidden;
+  font-size: 0px;
+}
+
 header>h1{
   text-align: center;
   border-style: none;
@@ -69,6 +74,10 @@ footer{
     margin-right: 150px;
   }
   header>h1{
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  footer{
     margin-left: 150px;
     margin-right: 150px;
   }
