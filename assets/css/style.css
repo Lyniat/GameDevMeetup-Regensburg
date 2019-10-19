@@ -75,17 +75,16 @@ footer{
 }
 
 @media (min-width: 1000px) {
-  #container {
+  #container,header>h1,footer {
     margin-left: 150px;
     margin-right: 150px;
   }
-  header>h1{
-    margin-left: 150px;
-    margin-right: 150px;
-  }
-  footer{
-    margin-left: 150px;
-    margin-right: 150px;
+}
+
+@media (min-width: 1150px) {
+  #container,header>h1,footer {
+    margin-left: 250px;
+    margin-right: 250px;
   }
 }
 
