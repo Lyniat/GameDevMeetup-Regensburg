@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
 @import url('assets/css/materialize.min.css');
 
-h1,h2,h3,h4,h4,p{
+h1,h2,h3,h4,h4,p,li{
   font-family: 'Dosis', sans-serif;
   color: #ffffff;
 }
@@ -71,6 +71,7 @@ footer{
   border-radius: 50px;
   padding-left: 50px;
   padding-right: 50px;
+  padding-bottom: 50px;
 }
 
 @media (min-width: 1000px) {
