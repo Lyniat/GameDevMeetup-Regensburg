@@ -28,6 +28,13 @@ header>h1{
   border-radius: 50px;
 }
 
+footer{
+  text-align: center;
+  border-style: none;
+  background: #222222ee;
+  border-radius: 50px;
+}
+
 #container {
   border-style: none;
   background: #222222ee;
