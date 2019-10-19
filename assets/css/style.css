@@ -12,10 +12,12 @@ html{
 
 .download-bar{
   visibility:hidden;
+  font-size: 0px;
 }
 
 .tagline{
   visibility:hidden;
+  font-size: 0px;
 }
 
 header>h1{
