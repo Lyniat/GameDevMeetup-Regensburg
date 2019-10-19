@@ -11,3 +11,11 @@ header>h1{
   border-color: coral;
 }
 
+@media (max-width: 1000px) {
+  div.container {
+    display: none;
+    padding-left: 300px;
+    padding-right: 300px;
+  }
+}
+
