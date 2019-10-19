@@ -6,6 +6,26 @@ h1,h2,h3,h4,h4,p{
   color: #ffffff;
 }
 
+/* unvisited link */
+a:link {
+  color: #df7126;
+}
+
+/* visited link */
+a:visited {
+  color: #df7126;
+}
+
+/* mouse over link */
+a:hover {
+  color: #df7126;
+}
+
+/* selected link */
+a:active {
+  color: #df7126;
+}
+
 html{
   background: url('/assets/regensburg.jpg') no-repeat center center fixed; 
   background-size: cover;
@@ -49,8 +69,8 @@ footer{
     margin-right: 150px;
   }
   header>h1{
-    margin-left: 115px;
-    margin-right: 115px;
+    margin-left: 150px;
+    margin-right: 150px;
   }
 }
 
