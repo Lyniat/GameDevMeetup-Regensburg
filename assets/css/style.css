@@ -13,7 +13,6 @@ header>h1{
 
 @media (max-width: 1000px) {
   #container {
-    display: none;
     padding-left: 300px;
     padding-right: 300px;
   }
