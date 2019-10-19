@@ -10,6 +10,10 @@ html{
   background-color: #000000;
 }
 
+.download-bar{
+  visibility:hidden;
+}
+
 header>h1{
   text-align: center;
   border-style: none;
