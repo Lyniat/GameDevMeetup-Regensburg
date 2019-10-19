@@ -24,13 +24,13 @@ html{
 header>h1{
   text-align: center;
   border-style: none;
-  background: #239ecd;
+  background: #222222ee;
   border-radius: 50px;
 }
 
 #container {
   border-style: none;
-  background: #239ecd;
+  background: #222222ee;
   border-radius: 50px;
   padding-left: 50px;
   padding-right: 50px;
