@@ -25,12 +25,12 @@ header>h1{
 
 @media (min-width: 1000px) {
   #container {
-    padding-left: 300px;
-    padding-right: 300px;
+    border-left: 300px;
+    border-right: 300px;
   }
   header>h1{
-    padding-left: 250px;
-    padding-right: 250px;
+    border-left: 250px;
+    border-right: 250px;
   }
 }
 
