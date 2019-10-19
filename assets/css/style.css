@@ -12,7 +12,7 @@ html{
 header>h1{
   text-align: center;
   border-style: none;
-  background: coral;
+  background: #239ecd;
   border-radius: 50px;
 }
 
@@ -20,6 +20,10 @@ header>h1{
   #container {
     padding-left: 300px;
     padding-right: 300px;
+  }
+  header>h1{
+    padding-left: 250px;
+    padding-right: 250px;
   }
 }
 
