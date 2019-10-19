@@ -29,6 +29,7 @@ a:active {
 html{
   background: url('/assets/regensburg.jpg') no-repeat center center fixed; 
   background-size: cover;
+  position: absolute;
 }
 
 .download-bar{
