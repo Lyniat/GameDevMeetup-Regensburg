@@ -11,7 +11,7 @@ header>h1{
   border-color: coral;
 }
 
-@media (max-width: 1000px) {
+@media (min-width: 1000px) {
   #container {
     padding-left: 300px;
     padding-right: 300px;
