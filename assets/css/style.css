@@ -37,12 +37,12 @@ header>h1{
 
 @media (min-width: 1000px) {
   #container {
-    border-left: 300px;
-    border-right: 300px;
+    margin-left: 300px;
+    margin-right: 300px;
   }
   header>h1{
-    border-left: 250px;
-    border-right: 250px;
+    margin-left: 250px;
+    margin-right: 250px;
   }
 }
 
