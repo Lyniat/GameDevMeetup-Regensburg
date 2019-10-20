@@ -25,7 +25,7 @@ a:active {
   color: #df7126;
 }
 
-html{
+.background{
   background: url('/assets/regensburg.jpg') no-repeat center center fixed; 
   position: fixed;
   top: 0;
