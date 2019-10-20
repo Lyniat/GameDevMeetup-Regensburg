@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
-@import url('/assets/css/materialize.min.css');
+//@import url('/assets/css/materialize.min.css');
 
 h1,h2,h3,h4,h4,p,li{
   font-family: 'Dosis', sans-serif;
@@ -26,7 +26,7 @@ a:active {
   color: #df7126;
 }
 
-head{
+html{
   background: url('/assets/regensburg.jpg') no-repeat center center fixed; 
   position: fixed;
   top: 0;
