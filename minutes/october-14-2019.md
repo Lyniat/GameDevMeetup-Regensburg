@@ -5,13 +5,12 @@ Anwesende: Laurin Muth, Niklas Reinhold, Korbinian Fischer
 ## Ziel: Förderung der Spieleentwicklungsbranche in Regensburg und Umgebung
 
 ## TOP1: Idee
-  - DGO stellt evtl. Raum zur Verfügung (Ansprechpartnerin Vroni)
+  - DGO stellt evtl. Raum zur Verfügung (Ansprechpartnerin Veronika Fetzer)
   - Laurin trifft DGO am 23.10.
-  - ToDo Bis 23.10. müssen wir ein Konzept erstellen
 
 ## TOP2: Partner
   - Laurin Muth (lyniat.Games)
-  - Niklas Reinhold und Korbinian Fischer Teavelop GbR
+  - Niklas Reinhold und Korbinian Fischer (Teavelop GbR)
   - Wave OR
   - Brainjo
   - Cipsoft bereits angefragt (noch keine Antwort)
@@ -19,10 +18,10 @@ Anwesende: Laurin Muth, Niklas Reinhold, Korbinian Fischer
   - ToDo:
     - ratisbona coding e.V.
     - Gamer Verein e.V.
-     - GamesBavaria
+    - GamesBavaria
 
 ## TOP3: Konzept des Meetups
-  - wöchentlich 17:00 - 18:00 Uhr
+  - wöchentlich z.B. 17:00 - 18:00 Uhr
   - max. 1 Vortrag pro Treffen (max. 20min)
   - danach Gedankenaustausch in Kleingruppen
   - Teilnehmer:
