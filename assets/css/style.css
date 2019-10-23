@@ -52,11 +52,6 @@ a:active {
   font-size: 0px;
 }
 
-.creds{
-  visibility:hidden;
-  font-size: 0px;
-}
-
 header>h1{
   text-align: center;
   border-style: none;
