@@ -59,6 +59,10 @@ header>h1{
   border-radius: 50px;
 }
 
+.creds{
+  background:#ffffff; 
+}
+
 footer{
   text-align: center;
   border-style: none;
