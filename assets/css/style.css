@@ -96,3 +96,28 @@ footer{
   }
 }
 
+.flex-margin-left{
+  margin-right: 6px;
+  @include media-query($on-laptop) {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+.flexible{
+  display:grid;
+  grid-template-columns: 50% 50%; 
+  grid-auto-flow: column;
+  @include media-query($on-laptop) {
+    display:block;
+  }
+}
+
+.flex-margin-right{
+  margin-left: 6px;
+  @include media-query($on-laptop) {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
