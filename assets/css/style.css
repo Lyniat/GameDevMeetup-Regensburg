@@ -97,6 +97,7 @@ footer{
 }
 
 .flex-margin-left{
+  max-width: 100%;
   margin-right: 6px;
   @include media-query($on-laptop) {
     margin-left: 0px;
@@ -114,6 +115,7 @@ footer{
 }
 
 .flex-margin-right{
+  max-width: 100%;
   margin-left: 6px;
   @include media-query($on-laptop) {
     margin-left: 0px;
