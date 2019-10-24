@@ -107,7 +107,7 @@ footer{
     margin-right: 250px;
   }
   .flexible{
-     grid-template-columns: 25% 25% 25% 25%;  
+     grid-template-columns: 33% 33% 33%;
   }
 }
 
