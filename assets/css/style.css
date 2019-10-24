@@ -118,7 +118,7 @@ footer{
 
 .flexible{
   display:grid;
-  grid-template-columns: 50% 50%; 
+  grid-template-columns: 25% 25% 25% 25%; 
   grid-auto-flow: column;
   @include media-query($on-laptop) {
     display:block;
