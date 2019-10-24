@@ -75,10 +75,19 @@ footer{
   padding-bottom: 25px;
 }
 
+.flexible{
+  display:grid;
+  grid-auto-flow: column;
+  grid-template-columns: 25% 25% 25% 25%;  
+}
+
 @media (min-width: 800px) {
   #container,header>h1,footer {
     margin-left: 100px;
     margin-right: 100px;
+  }
+  .flexible{
+     grid-template-columns: 100%;  
   }
 }
 
@@ -87,12 +96,18 @@ footer{
     margin-left: 150px;
     margin-right: 150px;
   }
+  .flexible{
+     grid-template-columns: 50% 50;  
+  }
 }
 
 @media (min-width: 1150px) {
   #container,header>h1,footer {
     margin-left: 250px;
     margin-right: 250px;
+  }
+  .flexible{
+     grid-template-columns: 33% 33% 33%;  
   }
 }
 
@@ -113,15 +128,6 @@ footer{
   @include media-query($on-laptop) {
     margin-left: 0px;
     margin-right: 0px;
-  }
-}
-
-.flexible{
-  display:grid;
-  grid-template-columns: 25% 25% 25% 25%; 
-  grid-auto-flow: column;
-  @include media-query($on-laptop) {
-    display:block;
   }
 }
 
