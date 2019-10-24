@@ -102,16 +102,16 @@ footer{
 
 .partner-image{
   max-width: 100%;
+}
+
+.flex-margin-left{
+  margin-right: 6px;
   border-style: none;
   background: #ffffff;
   border-radius: 50px;
   padding-left: 50px;
   padding-right: 50px;
   padding-bottom: 25px;
-}
-
-.flex-margin-left{
-  margin-right: 6px;
   @include media-query($on-laptop) {
     margin-left: 0px;
     margin-right: 0px;
@@ -129,6 +129,12 @@ footer{
 
 .flex-margin-right{
   margin-left: 6px;
+  border-style: none;
+  background: #ffffff;
+  border-radius: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 25px;
   @include media-query($on-laptop) {
     margin-left: 0px;
     margin-right: 0px;
