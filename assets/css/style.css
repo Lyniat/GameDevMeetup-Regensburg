@@ -104,7 +104,8 @@ footer{
 }
 
 .flex-margin-left{
-  margin-right: 6px;
+  margin-right: 25px;
+  margin-left: 50px;
   border-style: none;
   background: #ffffff;
   border-radius: 25px;
@@ -127,7 +128,8 @@ footer{
 }
 
 .flex-margin-right{
-  margin-left: 6px;
+  margin-left: 25px;
+  margin-right: 50px;
   border-style: none;
   background: #ffffff;
   border-radius: 25px;
