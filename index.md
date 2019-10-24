@@ -1,3 +1,5 @@
+# Meetup 28 Oktober, TechBase Regensburg, Raum Curie, 17:00
+
 ## Willkommen
 auf der offiziellen GameDevMeetup-Regensburg Seite.
 Wir haben uns zum Ziel gesetzt, die Spieleentwicklerbranche in Regensburg und Umgebung zu fördern.
