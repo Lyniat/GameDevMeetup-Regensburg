@@ -40,16 +40,6 @@
       </div>
     </div>
     <footer>
-      <div class="owner">
-      {% if site.github.is_project_page %}
-      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="{{ site.github.owner_gravatar_url }}" width="48" height="48"></a> <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> maintains <a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</a></p>
-      {% endif %}
-
-       {% if site.github.is_user_page %}
-      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="{{ site.github.owner_gravatar_url }}" width="48" height="48"></a>View <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> on <a href="https://www.github.com">GitHub</a></p>
-      {% endif %}
-
-      </div>
       <div class="creds">
         <p>Partner:</p>
         <div class="flexible">
@@ -61,6 +51,16 @@
           </div>
          </div>
        </div>
+      <div class="owner">
+      {% if site.github.is_project_page %}
+      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="{{ site.github.owner_gravatar_url }}" width="48" height="48"></a> <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> maintains <a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</a></p>
+      {% endif %}
+
+       {% if site.github.is_user_page %}
+      <p><a href="{{ site.github.owner_url }}" class="avatar"><img src="{{ site.github.owner_gravatar_url }}" width="48" height="48"></a>View <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> on <a href="https://www.github.com">GitHub</a></p>
+      {% endif %}
+
+      </div>
     </footer>
   </div>
   <div class="current-section">
