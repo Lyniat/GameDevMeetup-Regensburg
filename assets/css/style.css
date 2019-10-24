@@ -78,7 +78,7 @@ footer{
 .flexible{
   display:grid;
   grid-auto-flow: column;
-  grid-template-columns: 25% 25% 25% 25%;  
+  grid-template-columns: 100%;  
 }
 
 @media (min-width: 800px) {
@@ -87,7 +87,7 @@ footer{
     margin-right: 100px;
   }
   .flexible{
-     grid-template-columns: 100%;  
+     grid-template-columns: 50% 50%;  
   }
 }
 
@@ -97,7 +97,7 @@ footer{
     margin-right: 150px;
   }
   .flexible{
-     grid-template-columns: 50% 50%;  
+     grid-template-columns: 33% 33% 33%;  
   }
 }
 
@@ -107,7 +107,7 @@ footer{
     margin-right: 250px;
   }
   .flexible{
-     grid-template-columns: 33% 33% 33%;  
+     grid-template-columns: 25% 25% 25% 25%;  
   }
 }
 
