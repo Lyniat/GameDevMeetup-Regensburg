@@ -98,7 +98,6 @@ footer{
 
 .partner-image{
   max-width: 100%;
-  padding-height: 25px;
 }
 
 .flex-margin-left{
@@ -107,6 +106,7 @@ footer{
   border-style: none;
   background: #ffffff;
   border-radius: 25px;
+  padding-top: 25px;
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 25px;
@@ -131,6 +131,7 @@ footer{
   border-style: none;
   background: #ffffff;
   border-radius: 25px;
+  padding-top: 25px;
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 25px;
