@@ -98,9 +98,7 @@ footer{
 
 .partner-image{
   max-width: 100%;
-  border-style: none;
-  background: #ffffff;
-  border-radius: 25px;
+  padding-height: 25px;
 }
 
 .flex-margin-left{
