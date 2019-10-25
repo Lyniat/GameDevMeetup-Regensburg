@@ -13,4 +13,4 @@ Wenn du uns helfen willst, kannst du gerne unserem [Discord Channel](discord.lyn
 Unsere zukünftigen Pläne, wie Treffen, GameJams und Partner, sind im untenstehenden Protokoll zu finden.
 
 ## First Meetup
-[Protokoll](http://game-dev-meetup.lyniat.games/minutes/october-14-2019)
+[Protokoll](http://regensburg.games/minutes/october-14-2019)
