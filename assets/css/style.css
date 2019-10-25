@@ -78,7 +78,8 @@ footer{
 .flexible{
   display:grid;
   grid-auto-flow: column;
-  grid-template-columns: 100%;  
+  grid-template-columns: 100%;
+  grid-auto-rows: auto;
 }
 
 @media (min-width: 800px) {
