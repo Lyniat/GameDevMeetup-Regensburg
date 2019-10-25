@@ -87,6 +87,7 @@ footer{
   #container,header>h1,footer {
     margin-left: 100px;
     margin-right: 100px;
+    grid-template-rows: 100%; 
   }
   .flexible{
      grid-template-columns: 50% 50%;  
@@ -97,6 +98,7 @@ footer{
   #container,header>h1,footer {
     margin-left: 150px;
     margin-right: 150px;
+    grid-template-rows: 100%; 
   }
   .flexible{
      grid-template-columns: 33% 33% 33%;  
@@ -107,6 +109,7 @@ footer{
   #container,header>h1,footer {
     margin-left: 250px;
     margin-right: 250px;
+    grid-template-rows: 100%; 
   }
   .flexible{
      grid-template-columns: 33% 33% 33%;
@@ -131,6 +134,18 @@ footer{
     margin-left: 0px;
     margin-right: 0px;
   }
+}
+
+.flex-margin-mid{
+  margin-right: 25px;
+  margin-left: 25px;
+  border-style: none;
+  background: #ffffff;
+  border-radius: 25px;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
 }
 
 .flex-margin-right{
