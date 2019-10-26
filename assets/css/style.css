@@ -79,8 +79,7 @@ footer{
   display:grid;
   grid-auto-flow: column;
   grid-template-rows: auto;
-  grid-template-columns: 100%;
-  grid-template-rows: 50% 50%;  
+  grid-template-columns: 50% 50%;  
 }
 
 @media (min-width: 800px) {
