@@ -4,11 +4,11 @@
 auf der offiziellen GameDevMeetup-Regensburg Seite.
 Wir haben uns zum Ziel gesetzt, die Spieleentwicklerbranche in Regensburg und Umgebung zu fördern.
 
-Dafür steht auch ein [Discord Channel](discord.lyniat.games) bereit, wo wir uns regelmäßig austauschen.
+Dafür steht auch ein [Discord Channel](https://discord.lyniat.games) bereit, wo wir uns regelmäßig austauschen.
 
 Im Moment sind wir noch viel mit Planung beschäftigt, da unser Ziel ist, ein regelmäßiges Treffen für (zukünftige) Spieleentwickler und dazugehörige Artists, Musiker usw. zu schaffen.
 
-Wenn du uns helfen willst, kannst du gerne unserem [Discord Channel](discord.lyniat.games) beitreten.
+Wenn du uns helfen willst, kannst du gerne unserem [Discord Channel](https://discord.lyniat.games) beitreten.
 
 Unsere zukünftigen Pläne, wie Treffen, GameJams und Partner, sind im untenstehenden Protokoll zu finden.
 
