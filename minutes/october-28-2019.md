@@ -25,6 +25,8 @@ Anwesende: Laurin Muth, WaveOR, Teavelop(Korbinian Fischer & Niklas Reinhold), M
   - were's Waldo
   - FFF-Bayern Austausch über Fördermöglichkeiten
   - Bundesförderung
+  - GamesCom über GamesBavaria: Achtung Bewerbung sehr früh (evtl. schon im Februar)
+    - Indie Booth wäre besser
   - Johannes Molz leitet Sound für Games Kurs an der UNI
   - Game-Jams
     - allseits großes Interesse!
