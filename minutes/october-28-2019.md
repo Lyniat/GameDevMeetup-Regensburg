@@ -1,11 +1,11 @@
 # PROTOKOLL - Zweiter Game Dev Meetup Regensburg - 28.10.19
 Protokollfüher: Korbinian Fischer
-Anwesende: Laurin Muth, WaveOR, Teavelop(Korbinian Fischer & Niklas Reinhold), Medieninformatik Studenten(Phillip & Felix)
+Anwesende: Laurin Muth, WaveOR, Teavelop(Korbinian Fischer & Niklas Reinhold), Medieninformatik Studenten(Philipp & Felix)
 
 ## Ablauf: 
   - Techbase Geschäftsführer Alexander Rupprecht hat das Meeting eingeleitet und uns seine Unterstützung zugesichert
   - Abarbeitung der Topics
-  - Plauderrunde
+  - DevTalk
 
 ## TOP1: Konzept Anmerkungen
   - Anlaufstelle für Interessenten: regensburg.games
@@ -14,15 +14,15 @@ Anwesende: Laurin Muth, WaveOR, Teavelop(Korbinian Fischer & Niklas Reinhold), M
 ## TOP2: Partner
   - Aufruf zur Kontaktherstellung von Artists (Graphic und Sound)
   - Game Dev Meetup in Makerspaces vorstellen
-  - Cipsoft bereits angefragt (immernoch keine Antwort, über Waldo versuchen)
+  - Cipsoft bereits angefragt (Update 31.10.19 CipSoft schaut sich Discord mal an)
   - Medieninformatik Regensburg (Ansprechpartner: Martin Kocur) Laurin stellt den Studenten dort das Konzept am 30.10. vor
   - ToDo:
     - ratisbona coding e.V.
     - Gamer Verein e.V.
     - GamesBavaria
 
-## Plauderrunde
-  - were's Waldo
+## DevTalk
+  - where's Waldo
   - FFF-Bayern Austausch über Fördermöglichkeiten
   - Bundesförderung
   - GamesCom über GamesBavaria: Achtung Bewerbung sehr früh (evtl. schon im Februar)
