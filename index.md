@@ -13,5 +13,5 @@ Wenn du uns helfen willst, kannst du gerne unserem [Discord Channel](https://dis
 Unsere zukünftigen Pläne, wie Treffen, GameJams und Partner, sind im untenstehenden Protokoll zu finden.
 
 ## Meetups
-[Protokoll 14.10.19](http://regensburg.games/minutes/october-14-2019)
-[Protokoll 28.10.19](http://regensburg.games/minutes/october-28-2019)
+- [Protokoll 14.10.19](http://regensburg.games/minutes/october-14-2019)
+- [Protokoll 28.10.19](http://regensburg.games/minutes/october-28-2019)
