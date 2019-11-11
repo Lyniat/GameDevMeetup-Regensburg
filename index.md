@@ -1,4 +1,7 @@
-# Meetup 28 Oktober, TechBase Regensburg, Raum Curie, 17:00
+# Meetup 25 November, TechBase Regensburg, Raum Kepler, 17:00
+
+#### Weitere MeetUps
+[MeetUps](http://regensburg.games/events)
 
 ## Willkommen
 auf der offiziellen GameDevMeetup-Regensburg Seite.
