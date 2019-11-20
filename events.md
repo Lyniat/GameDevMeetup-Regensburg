@@ -1,6 +1,6 @@
 # Bevorstehende Events und Meetups
 
-#### immer 19:00 in der Techbase, Franz-Mayer-Str. 1, 93053 Regensburg
+#### immer <del>19:00</del> 17:00 in der Techbase, Franz-Mayer-Str. 1, 93053 Regensburg
 
 * 25.11.19 - Raum Kepler
 * 16.12.19 - Raum Kepler
