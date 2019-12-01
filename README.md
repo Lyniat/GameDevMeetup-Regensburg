@@ -1,2 +1,2 @@
 # GameDevMeetup Regensburg
-MD Content for the RED PANDA
+Official website
