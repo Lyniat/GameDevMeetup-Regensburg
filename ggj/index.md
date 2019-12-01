@@ -1,0 +1,3 @@
+Information about the Global Game Jam in Regensburg
+
+Coming soon...
