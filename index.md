@@ -1,4 +1,4 @@
-# Meetup 25 November, TechBase Regensburg, Raum Kepler, 17:00
+# Meetup 16 Dezember, TechBase Regensburg, Raum Kepler, 17:00
 
 #### Weitere MeetUps
 [MeetUps](http://regensburg.games/events)
