@@ -1,4 +1,5 @@
 # Meetup 16 Dezember, TechBase Regensburg, Raum Kepler, 17:00
+<div class="addevent-event-embed" data-event="zu4138497" data-box-style="1" data-height="auto" data-share="no"></div><script type="text/javascript" src="https://www.addevent.com/js/event.embed.v1.js"></script>
 
 #### Weitere MeetUps
 [MeetUps](http://regensburg.games/events)
