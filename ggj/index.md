@@ -2,7 +2,7 @@
 ## 31 January - 02 February, 2020
 ### @TechBase Regensburg
 
-Join our site: coming soon...
+Join our site: [Global Game Jam Regensburg](https://globalgamejam.org/2020/jam-sites/ggj-regensburg-lyniatgames-teavelop-gbr)
 
 Watch our stream: [Twitch](https://www.twitch.tv/lyniat_games)
 
