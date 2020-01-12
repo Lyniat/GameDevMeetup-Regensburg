@@ -5,6 +5,9 @@
 #### Weitere MeetUps
 [MeetUps](http://regensburg.games/events)
 
+#### Join the global Game Jam Site in Regensburg
+[Global Game Jam Regensburg](https://regensburg.games/ggj/)
+
 ## Willkommen
 auf der offiziellen GameDevMeetup-Regensburg Seite.
 Wir haben uns zum Ziel gesetzt, die Spieleentwicklerbranche in Regensburg und Umgebung zu fördern.
