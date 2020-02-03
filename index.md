@@ -5,7 +5,7 @@
 #### Weitere MeetUps
 [MeetUps](http://regensburg.games/events)
 
-#### Join the global Game Jam Site in Regensburg
+#### Our Global Game Jam at TechBase, Regensburg
 [Global Game Jam Regensburg](https://regensburg.games/ggj/)
 
 ## Willkommen
