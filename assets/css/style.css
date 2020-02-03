@@ -75,10 +75,14 @@ footer{
     border-style: none;
     background: #ffffff;
     border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center
 }
 
 .partner-image{
-   max-width: 100%;
+   max-width: 80%;
+   max-height: 80%;
  }
 
 .owner{
