@@ -1,4 +1,4 @@
-# Meetup 27 Januar, TechBase Regensburg, Raum Kepler, 17:00
+# Meetup 24 February, TechBase Regensburg, Raum Kepler, 17:00
 <a title="Add to Calendar" class="addeventatc" data-id="zu4138497" href="https://www.addevent.com/event/zu4138497" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
