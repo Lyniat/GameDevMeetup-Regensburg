@@ -79,7 +79,7 @@ footer{
   color: #000;
 }
 
-.wrapper {
+.box-wrapper {
     width: 600px;
     display: grid;
 grid-gap: 10px;
