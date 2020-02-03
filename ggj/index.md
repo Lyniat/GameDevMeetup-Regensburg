@@ -2,8 +2,6 @@
 ## 31 January - 02 February, 2020
 ### @TechBase Regensburg
 
-Content coming soon!
-
 <div class="carousel">
     <a class="carousel-item" href="#one!"><img src="https://regensburg.games/ggj/ggj1.jpg"></a>
     <a class="carousel-item" href="#two!"><img src="https://regensburg.games/ggj/ggj2.jpg"></a>
