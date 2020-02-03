@@ -13,3 +13,9 @@
   
   
   <iframe src="https://player.twitch.tv/?autoplay=false&video=v545630434" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/videos/545630434?tt_content=text_link&tt_medium=vod_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Global Game Jam 2020 -#GGJ2020 - Regensburg, Deutschland von GlobalGameJam auf www.twitch.tv ansehen</a>
+  
+  <script>
+    $(document).ready(function(){
+    $('.carousel').carousel();
+  });
+    </script>
