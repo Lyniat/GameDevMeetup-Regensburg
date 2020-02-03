@@ -72,6 +72,8 @@ footer{
 }
 
 .partner-box{
+    width: 300px;
+    height: 200px;
     border-style: none;
     background: #ffffff;
     border-radius: 25px;
