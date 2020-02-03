@@ -93,9 +93,9 @@ footer{
    }
  }
 
-.flex-margin-left{
+.flex-margin-mid{
    margin-right: 25px;
-   margin-left: 50px;
+   margin-left: 25px;
    border-style: none;
    background: #ffffff;
    border-radius: 25px;
