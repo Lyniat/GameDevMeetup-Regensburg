@@ -167,3 +167,7 @@ footer{
   padding-bottom: 25px;
 }
 
+iframe{
+ margin-left: auto;
+ margin-right: auto;
+}
