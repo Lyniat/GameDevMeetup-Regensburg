@@ -2,16 +2,16 @@
 
 Verantwortlich für diese Website:
 
-lyniat.games GmbH
-Franz-Mayer-Str. 1
-93053 Regensburg
+lyniat.games GmbH<br>
+Franz-Mayer-Str. 1<br>
+93053 Regensburg<br>
 
-Kontakt:
-0941 604889140
-contact@lyniat.games
-https://lyniat.games
+Kontakt:<br>
+0941 604889140<br>
+contact@lyniat.games<br>
+https://lyniat.games<br>
 
-Registergericht: Regensburg
-Registernummer: HRB 17618
-Vertretungsberechtigte Geschäftsführer: Laurin Muth
+Registergericht: Regensburg<br>
+Registernummer: HRB 17618<br>
+Vertretungsberechtigte Geschäftsführer: Laurin Muth<br>
 Umsatzsteuer-Identifikationsnummer nach § 27a UStG: (noch nicht zugewiesen)
