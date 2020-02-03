@@ -37,10 +37,13 @@ a:active {
   right: 0px;
 }
 
-.container{
-  border-style: none;
-  background: #222222ee;
-  border-radius: 50px;
+.container {
+   border-style: none;
+   background: #222222ee;
+   border-radius: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-bottom: 25px;
 }
 
 .download-bar{
