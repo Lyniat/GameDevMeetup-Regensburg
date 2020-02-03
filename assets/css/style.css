@@ -82,8 +82,13 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 25px;
-    margin-right: 25px;
+}
+
+.partner-padding{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .partner-image{
