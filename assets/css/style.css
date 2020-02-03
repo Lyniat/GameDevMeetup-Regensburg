@@ -89,7 +89,7 @@ footer{
     margin-right: 25px;
     margin-top: 25px;
     margin-bottom: 25px;
-    width: 100%;
+    width: auto;
     height: 200px;
     display: flex;
     align-items: center;
