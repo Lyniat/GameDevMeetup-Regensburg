@@ -37,6 +37,12 @@ a:active {
   right: 0px;
 }
 
+.container{
+  border-style: none;
+  background: #222222ee;
+  border-radius: 50px;
+}
+
 .download-bar{
   visibility:hidden;
   font-size: 0px;
