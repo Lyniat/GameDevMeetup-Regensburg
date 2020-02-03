@@ -66,44 +66,25 @@ footer{
   border-radius: 50px;
 }
 
-#container {
-  border-style: none;
-  background: #222222ee;
-  border-radius: 50px;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 25px;
+.box {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
 }
 
-@media (min-width: 800px) {
-   .flexible{
-      grid-template-columns: 50% 50%;  
-   }
- }
+.box:nth-child(even) {
+  background-color: #ccc;
+  color: #000;
+}
 
- @media (min-width: 1000px) {
-   .flexible{
-      grid-template-columns: 33% 33% 33%;  
-   }
- }
-
- @media (min-width: 1150px) {
-   .flexible{
-      grid-template-columns: 25% 25% 25% 25%;
-   }
- }
-
-.flex-margin-mid{
-   margin-right: 25px;
-   margin-left: 25px;
-   border-style: none;
-   background: #ffffff;
-   border-radius: 25px;
-   padding-top: 25px;
-   padding-left: 25px;
-   padding-right: 25px;
-   padding-bottom: 25px;
- }
+.wrapper {
+    width: 600px;
+    display: grid;
+grid-gap: 10px;
+    grid-template-columns: repeat(6, 100px);
+}
 
 .partner-image{
    max-width: 100%;
