@@ -77,86 +77,15 @@ footer{
 
 .flexible{
   display:grid;
+  grid-template-columns: 50% 50%;
   grid-auto-flow: column;
-  grid-template-rows: auto;
-  grid-template-columns: 50% 50%;  
-}
-
-@media (min-width: 800px) {
-  #container,header>h1,footer {
-    margin-left: 100px;
-    margin-right: 100px;
-    grid-template-rows: 100%; 
+  @include media-query($on-laptop) {
+    display:block;
   }
-  .flexible{
-     grid-template-columns: 50% 50%;  
-  }
-}
-
-@media (min-width: 1000px) {
-  #container,header>h1,footer {
-    margin-left: 150px;
-    margin-right: 150px;
-    grid-template-rows: 100%; 
-  }
-  .flexible{
-     grid-template-columns: 33% 33% 33%;  
-  }
-}
-
-@media (min-width: 1150px) {
-  #container,header>h1,footer {
-    margin-left: 250px;
-    margin-right: 250px;
-    grid-template-rows: 100%; 
-  }
-  .flexible{
-     grid-template-columns: 33% 33% 33%;
-  }
-}
-
-.partner-image{
-  max-width: 100%;
 }
 
 .flex-margin-left{
-  margin-right: 25px;
-  margin-left: 50px;
-  border-style: none;
-  background: #ffffff;
-  border-radius: 25px;
-  padding-top: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
-  @include media-query($on-laptop) {
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-}
-
-.flex-margin-mid{
-  margin-right: 25px;
-  margin-left: 25px;
-  border-style: none;
-  background: #ffffff;
-  border-radius: 25px;
-  padding-top: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
-}
-
-.flex-margin-right{
-  margin-left: 25px;
-  margin-right: 50px;
-  border-style: none;
-  background: #ffffff;
-  border-radius: 25px;
-  padding-top: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
+  margin-right: 6px;
   @include media-query($on-laptop) {
     margin-left: 0px;
     margin-right: 0px;
