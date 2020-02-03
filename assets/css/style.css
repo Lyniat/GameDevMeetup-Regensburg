@@ -94,12 +94,16 @@ footer{
  }
 
 .flex-margin-left{
-  margin-right: 6px;
-  @include media-query($on-laptop) {
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-}
+   margin-right: 25px;
+   margin-left: 50px;
+   border-style: none;
+   background: #ffffff;
+   border-radius: 25px;
+   padding-top: 25px;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-bottom: 25px;
+ }
 
 .partner-image{
    max-width: 100%;
