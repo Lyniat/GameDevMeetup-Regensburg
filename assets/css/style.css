@@ -71,6 +71,12 @@ footer{
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
+.partner-box{
+    border-style: none;
+    background: #ffffff;
+    border-radius: 25px;
+}
+
 .partner-image{
    max-width: 100%;
  }
