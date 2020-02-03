@@ -66,24 +66,9 @@ footer{
   border-radius: 50px;
 }
 
-.box {
-  background-color: #444;
-  color: #fff;
-  border-radius: 5px;
-  padding: 20px;
-  font-size: 150%;
-}
-
-.box:nth-child(even) {
-  background-color: #ccc;
-  color: #000;
-}
-
 .box-wrapper {
-    width: 100%;
     display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(4, 25%);
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .partner-image{
