@@ -92,6 +92,10 @@ footer{
   }
 }
 
+.partner-image{
+   max-width: 100%;
+ }
+
 .owner{
   padding-bottom: 25px;
 }
