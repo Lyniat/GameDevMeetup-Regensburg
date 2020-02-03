@@ -75,14 +75,23 @@ footer{
   padding-bottom: 25px;
 }
 
-.flexible{
-  display:grid;
-  grid-template-columns: 50% 50%;
-  grid-auto-flow: column;
-  @include media-query($on-laptop) {
-    display:block;
-  }
-}
+@media (min-width: 800px) {
+   .flexible{
+      grid-template-columns: 50% 50%;  
+   }
+ }
+
+ @media (min-width: 1000px) {
+   .flexible{
+      grid-template-columns: 33% 33% 33%;  
+   }
+ }
+
+ @media (min-width: 1150px) {
+   .flexible{
+      grid-template-columns: 33% 33% 33%;
+   }
+ }
 
 .flex-margin-left{
   margin-right: 6px;
