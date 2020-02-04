@@ -125,21 +125,21 @@ iframe{
 }
 
 @media (min-width: 800px) {
-   wrapper {
+   .wrapper {
      margin-left: 100px;
      margin-right: 100px;
    }
  }
 
  @media (min-width: 1000px) {
-   wrapper {
+   .wrapper {
      margin-left: 150px;
      margin-right: 150px;
    }
  }
 
  @media (min-width: 1150px) {
-   wrapper {
+   .wrapper {
      margin-left: 250px;
      margin-right: 250px;
    }
