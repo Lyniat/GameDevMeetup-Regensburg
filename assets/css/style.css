@@ -42,6 +42,8 @@ a:active {
   background: url(/assets/bg-2.png);
   position:fixed;
   bottom:0px;
+  width:100%;
+  height:auto;
 }
 
 .container {
