@@ -39,7 +39,8 @@ a:active {
 }
 
 .background{
-  background: url(/assets/bg-2.png);
+  background: url(/assets/bg-2.png) no-repeat;
+  z-index:-1;
   position:fixed;
   bottom:0px;
   width:100%;
