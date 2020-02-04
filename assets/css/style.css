@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
 
+html { 
+  background: url(/assets/bg-1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 h1,h2,h3,h4,h4,p,li{
   font-family: 'Dosis', sans-serif;
   color: #ffffff;
@@ -30,15 +38,7 @@ a:active {
 }
 
 .background{
-  background: url('/assets/regensburg.jpg') no-repeat center center fixed; 
-  position: fixed;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  z-index: -1;
-  left: 0px;
-  right: 0px;
+  
 }
 
 .container {
