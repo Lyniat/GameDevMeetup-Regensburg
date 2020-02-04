@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
 
 html { 
-  background: url(/assets/bg-1.png) no-repeat center center fixed; 
+  background: url(/assets/bg-1.png) no-repeat center center fixed, url(/assets/bg-2.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -36,14 +36,6 @@ a:hover {
 /* selected link */
 a:active {
   color: #df7126;
-}
-
-.background{
-  background: url(/assets/bg-2.png) no-repeat center center fixed;
-  width:100%;
-  height:100%;
-  z-index:-1;
-  bottom:0px;
 }
 
 .container {
