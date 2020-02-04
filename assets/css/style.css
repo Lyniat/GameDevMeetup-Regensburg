@@ -39,7 +39,9 @@ a:active {
 }
 
 .background{
-  
+  background: url(/assets/bg-2.png);
+  position:fixed;
+  bottom:0px;
 }
 
 .container {
