@@ -99,7 +99,7 @@ footer{
 
 .box-wrapper {
     display: grid;
-    grid-template-columns: repeat(auto-fit, 250px);
+    grid-template-columns: repeat(auto-fit, 150px);
     align-items: center;
     justify-content: center;
 }
@@ -121,7 +121,7 @@ footer{
     margin-top: 25px;
     margin-bottom: 25px;
     width: auto;
-    height: 200px;
+    height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -149,6 +149,12 @@ iframe{
   .seal{
     width:15%;
     height:15%;
+  }
+  .box-wrapper {
+    grid-template-columns: repeat(auto-fit, 250px);
+  }
+  .partner-padding{
+    height: 200px;
   }
  }
 
