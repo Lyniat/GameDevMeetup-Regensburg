@@ -23,8 +23,8 @@ body{
 
 .seal{
   position: absolute;
-  top: 8px;
-  left: 16px;
+  top: 25px;
+  right: 25px;
   width:10%;
   height:10%;
 }
