@@ -13,6 +13,12 @@ body{
   image-rendering: auto;
 }
 
+.title-logo{
+  image-rendering: pixelated;
+  display: block;
+  margin: 0 auto;
+}
+
 h1,h2,h3,h4,h4,p,li{
   font-family: 'Dosis', sans-serif;
   color: #ffffff;
