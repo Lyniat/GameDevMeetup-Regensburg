@@ -52,7 +52,7 @@ a:active {
 
 .container {
    border-style: none;
-   background: #222222ee;
+   background: #222222bb;
    border-radius: 50px;
    padding-left: 50px;
    padding-right: 50px;
@@ -78,14 +78,14 @@ a:active {
 header>h1{
   text-align: center;
   border-style: none;
-  background: #222222ee;
+  background: #222222bb;
   border-radius: 50px;
 }
 
 footer{
   text-align: center;
   border-style: none;
-  background: #222222ee;
+  background: #222222bb;
   border-radius: 50px;
 }
 
