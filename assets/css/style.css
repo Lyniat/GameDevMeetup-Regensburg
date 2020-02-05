@@ -18,6 +18,7 @@ body{
   display: block;
   margin: 0 auto;
   width: 70%;
+  margin-bottom: 50px;
 }
 
 h1,h2,h3,h4,h4,p,li{
