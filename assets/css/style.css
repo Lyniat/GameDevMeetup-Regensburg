@@ -16,6 +16,8 @@ body{
 .title-logo{
   image-rendering: pixelated;
   display: block;
+  margin: 0 auto;
+  height: 300px;
 }
 
 h1,h2,h3,h4,h4,p,li{
@@ -135,10 +137,6 @@ iframe{
      margin-left: 100px;
      margin-right: 100px;
    }
-  .title-logo {
-     margin-left: 100px;
-     margin-right: 100px;
-   }
  }
 
  @media (min-width: 1000px) {
@@ -146,18 +144,10 @@ iframe{
      margin-left: 150px;
      margin-right: 150px;
    }
-   .title-logo {
-     margin-left: 150px;
-     margin-right: 150px;
-   }
  }
 
  @media (min-width: 1150px) {
    .wrapper {
-     margin-left: 250px;
-     margin-right: 250px;
-   }
-   .title-logo {
      margin-left: 250px;
      margin-right: 250px;
    }
