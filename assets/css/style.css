@@ -21,6 +21,12 @@ body{
   margin-bottom: 30px;
 }
 
+.seal{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
 h1,h2,h3,h4,h4,p,li{
   font-family: 'Dosis', sans-serif;
   color: #ffffff;
