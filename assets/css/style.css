@@ -77,7 +77,10 @@ a:active {
 
 .menu>ul{
   list-style-type:none;
-  display:inline-block;
+}
+
+.menu>ul>li{
+  display:inline-block; 
 }
 
 .download-bar{
