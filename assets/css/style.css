@@ -75,7 +75,9 @@ a:active {
   color: #df7126;
 }
 
-.menu{
+.menu ul{
+  list-style-type:none;
+  display:inline-block;
 }
 
 .download-bar{
