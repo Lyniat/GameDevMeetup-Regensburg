@@ -75,7 +75,7 @@ a:active {
   color: #df7126;
 }
 
-.menu ul{
+.menu>ul{
   list-style-type:none;
   display:inline-block;
 }
