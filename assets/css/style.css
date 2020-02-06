@@ -68,7 +68,7 @@ a:active {
   margin-bottom: 25px;
 }
 
-.container .menu{
+.container.menu{
   padding-bottom: 0px;
 }
 
