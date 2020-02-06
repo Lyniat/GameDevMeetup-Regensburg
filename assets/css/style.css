@@ -68,6 +68,10 @@ a:active {
   margin-bottom: 25px;
 }
 
+.container .menu{
+  padding-bottom: 0px;
+}
+
 .menu>ul>li>h2>a{
   padding-right: 50px;
   padding-top: 25px;
