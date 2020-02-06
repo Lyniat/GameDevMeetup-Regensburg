@@ -68,7 +68,7 @@ a:active {
    margin-bottom: 25px;
 }
 
-.menu h3{
+.menu>h2{
    padding-right: 50px;
    padding-top: 25px;
    text-decoration: none;
