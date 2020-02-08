@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Meetups
+  link: /events
+- name: Blog
+  link: /blog
