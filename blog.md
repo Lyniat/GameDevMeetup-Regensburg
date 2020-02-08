@@ -3,8 +3,9 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <h2>{{ post.title }}>/h2>
+      <h3>{{ page.date | date_to_string }} - {{ page.author }}</h3>
+      {{ post.content }}
     </li>
   {% endfor %}
 </ul>
