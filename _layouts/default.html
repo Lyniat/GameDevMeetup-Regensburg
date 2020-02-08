@@ -28,7 +28,7 @@
       <div class="container menu">
         <ul>
           {% for item in site.data.navigation.docs %}
-          <li><h2><a href="{{ item.url }}">{{ item.title }}</a></h2></li>
+          <li><h2><a href="{{ item.link }}">{{ item.name }}</a></h2></li>
           {% endfor %}
         </ul>
       </div>
