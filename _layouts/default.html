@@ -27,8 +27,9 @@
       <img src="/assets/siegel.svg" alt="Seal" class="seal">
       <div class="container menu">
         <ul>
-          <li><h2><a href="https://regensburg.games">Home</a></h2></li>
-          <li><h2><a href="https://regensburg.games/events">Meetups</a></h2></li>
+          {% for item in site.data.navigation.docs %}
+          <li><h2><a href="{{ item.url }}">{{ item.title }}</a></h2></li>
+          {% endfor %}
         </ul>
       </div>
     </header>
