@@ -1,6 +1,6 @@
 <h1>Latest Posts</h1>
 
-<ul>
+<ul class="no-bullets">
   {% for post in site.posts %}
     <li>
       <h2>{{ post.title }}</h2>
