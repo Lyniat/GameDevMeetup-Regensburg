@@ -161,6 +161,10 @@ iframe{
  margin-right: auto;
 }
 
+.no-bullets{
+ list-style-type:none;
+}
+
 @media (min-width: 800px) {
    .wrapper {
      margin-left: 100px;
