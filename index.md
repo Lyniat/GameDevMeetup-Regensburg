@@ -1,5 +1,5 @@
-# Meetup 24 February, TechBase Regensburg, Raum Kepler, 17:00
-<a title="Add to Calendar" class="addeventatc" data-id="SH4623293" href="https://www.addevent.com/event/SH4623293" target="_blank" rel="nofollow">Add to Calendar</a>
+# Meetup 24 March, TechBase Regensburg, Raum Kepler, 17:00
+<a title="Add to Calendar" class="addeventatc" data-id="Yv4623294" href="https://www.addevent.com/event/Yv4623294" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
 ## Willkommen
