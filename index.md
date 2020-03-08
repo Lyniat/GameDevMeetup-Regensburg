@@ -1,4 +1,4 @@
-# Meetup 24 March, TechBase Regensburg, Raum Kepler, 17:00
+# Meetup 23 March, TechBase Regensburg, Raum Kepler, 17:00
 <a title="Add to Calendar" class="addeventatc" data-id="Yv4623294" href="https://www.addevent.com/event/Yv4623294" target="_blank" rel="nofollow">Add to Calendar</a>
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
