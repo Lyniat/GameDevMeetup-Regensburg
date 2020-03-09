@@ -14,4 +14,4 @@ https://lyniat.games<br>
 Registergericht: Regensburg<br>
 Registernummer: HRB 17618<br>
 Vertretungsberechtigte Geschäftsführer: Laurin Muth<br>
-Umsatzsteuer-Identifikationsnummer nach § 27a UStG: (noch nicht zugewiesen)
+Umsatzsteuer-Identifikationsnummer nach § 27a UStG: DE328305336
