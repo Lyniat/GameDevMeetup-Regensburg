@@ -1,12 +1,12 @@
 # Meetup 25 May, Online Meetup via [BigBlueButton](https://bbb.bluit.de/b/kor-jvj-3j2), 17:00
 [Join Meeting](https://bbb.bluit.de/b/kor-jvj-3j2)
+<a title="Add to Calendar" class="addeventatc" data-id="Jb4623296" href="https://www.addevent.com/event/Jb4623296" target="_blank" rel="nofollow">Add to Calendar</a>
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 ### Agenda
-1. Talk: Vulperax Gaming - Der Publisher in Entwicklerhand
+1. Talk by Felix Struve: Vulperax Gaming - Der Publisher in Entwicklerhand
 2. Open Discussions and Networking
 3. open end ;)
 
-<a title="Add to Calendar" class="addeventatc" data-id="Jb4623296" href="https://www.addevent.com/event/Jb4623296" target="_blank" rel="nofollow">Add to Calendar</a>
-	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
 ## Willkommen
 auf der offiziellen GameDevMeetup-Regensburg Seite.
